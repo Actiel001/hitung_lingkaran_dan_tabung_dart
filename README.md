@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+##For Experiments, you can directly download this repo via git or download it as a rar, and you can immediately run it by opening your vscode, then run the device, or you only need to download the main.dart file in the lib folder, and you create a new plutter project and then you copy my code. okay thank you very much 😁😁😁😁😁
 
 ## Getting Started
 
